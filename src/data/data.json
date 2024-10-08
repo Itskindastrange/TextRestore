@@ -162,24 +162,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-magic ",
+      "title": "Easy Upload and Process",
+      "text": "Simply drag and drop your low-resolution Urdu text images, and our AI instantly starts enhancing them without any hassle."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-check",
+      "title": "Instant Results with Side-by-Side Comparison",
+      "text": "Get real-time feedback by viewing your enhanced image alongside the original to immediately see the improvements."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-download",
+      "title": "One-Click Download",
+      "text": "After the restoration, download your high-resolution image with just one click—ready for use in any document or publication."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-database",
+      "title": "Secure Storage",
+      "text": "Your images are safely stored and backed up, ensuring secure access anytime you need them."
     }
   ]
 }

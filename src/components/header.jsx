@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom"; // Import Link from react-router-dom
 
 export const Header = (props) => {
   return (
@@ -13,12 +14,13 @@ export const Header = (props) => {
                   <span></span>
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
-                <a
-                  href="#features"
-                  className="btn btn-custom btn-lg page-scroll"
-                >
-                  Learn More
-                </a>{" "}
+                {/* Use Link component to navigate to the login page */}
+                <Link to="/login" className="btn btn-custom btn-lg page-scroll">
+                  Login
+                </Link>
+                <Link to="/SignUp" className="btn btn-custom btn-lg page-scroll">
+                  Sign Up
+                </Link>
               </div>
             </div>
           </div>
