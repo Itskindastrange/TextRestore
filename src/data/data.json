@@ -1,10 +1,11 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Urdu Text Restoration",
+    "paragraph": "Unleashing the hidden brilliance of Urdu text!"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At Text Restore, we specialize in restoring degraded Urdu text images using advanced Super-Resolution models. Our goal is to enhance text readability and preserve the integrity of historical and modern documents. Through cutting-edge machine learning techniques, we offer efficient and accurate solutions tailored to the unique characteristics of Urdu scripts."
+,
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -152,12 +153,12 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "1535 Pacific Ave San Francisco, California(CA), 94109 ",
+    "phone": "+1 415 928-7894",
+    "email": "text@textrestore.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "linkedin": "linkedin.com"
   },
   "Features": [
     {
