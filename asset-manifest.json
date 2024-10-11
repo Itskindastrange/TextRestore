@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TextRestore/static/css/main.ae42ac5f.css",
+    "main.js": "/TextRestore/static/js/main.aa016bd1.js",
+    "index.html": "/TextRestore/index.html",
+    "main.ae42ac5f.css.map": "/TextRestore/static/css/main.ae42ac5f.css.map",
+    "main.aa016bd1.js.map": "/TextRestore/static/js/main.aa016bd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.aa016bd1.js"
+  ]
+}
